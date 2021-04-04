@@ -1,4 +1,4 @@
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Fujigami/posts.svg)](http://qiita.com/ryuji-oda) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuji-oda/contributions.svg)](http://qiita.com/ryuji-oda) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ryuji-oda/followers.svg)](http://qiita.com/ryuji-oda)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Fujigami/posts.svg)](http://qiita.com/Fujigami) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Fujigami/contributions.svg)](http://qiita.com/Fujigami) [![My Qiita followers](https://qiita-badge.apiapi.app/s/Fujigami/followers.svg)](http://qiita.com/Fujigami)
 
 <p>
   <a href="https://twitter.com/Fujigami" target="_blank">
