@@ -8,11 +8,7 @@
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/Fujigami" target="_blank">
-    <img alt="GitHub: Fujigami" src="https://img.shields.io/github/follow/Fujigami.svg?style=social" />
-  </a>
-</p>
+[Qiita](https://qiita.com/Fujigami)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fujigami&show_icons=true&theme=cobalt" />
