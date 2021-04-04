@@ -6,7 +6,6 @@
 - :
 
 ## Links
-
 <p>
   <a href="https://twitter.com/Fujigami" target="_blank">
     <img alt="Twitter: Fujigami" src="https://img.shields.io/twitter/follow/Fujigami.svg?style=social" />
